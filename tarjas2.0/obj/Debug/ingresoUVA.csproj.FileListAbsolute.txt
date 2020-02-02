@@ -1,0 +1,12 @@
+B:\proyecto uva Johnson 2019\tarjas2.0 - pistolear pallet + ubicacion\tarjas2.0\bin\Debug\itextsharp.dll
+B:\proyecto uva Johnson 2019\tarjas2.0 - pistolear pallet + ubicacion\tarjas2.0\bin\Debug\itextsharp.xml
+B:\proyecto uva Johnson 2019\tarjas2.0 - pistolear pallet + ubicacion\tarjas2.0\obj\Debug\tarjas2._0.Form1.resources
+B:\proyecto uva Johnson 2019\tarjas2.0 - pistolear pallet + ubicacion\tarjas2.0\obj\Debug\ingresoUVA.csproj.GenerateResource.cache
+B:\proyecto uva Johnson 2019\tarjas2.0 - pistolear pallet + ubicacion\tarjas2.0\obj\Debug\ingresoUVA.csproj.CoreCompileInputs.cache
+B:\proyecto uva Johnson 2019\tarjas2.0 - pistolear pallet + ubicacion\tarjas2.0\obj\Debug\ingresoUVA.csproj.CopyComplete
+B:\proyecto uva Johnson 2019\tarjas2.0 - pistolear pallet + ubicacion\tarjas2.0\obj\Debug\IngresoUVA.Properties.Resources.resources
+B:\proyecto uva Johnson 2019\tarjas2.0 - pistolear pallet + ubicacion\tarjas2.0\bin\Debug\IngresoUVA.exe.config
+B:\proyecto uva Johnson 2019\tarjas2.0 - pistolear pallet + ubicacion\tarjas2.0\bin\Debug\IngresoUVA.exe
+B:\proyecto uva Johnson 2019\tarjas2.0 - pistolear pallet + ubicacion\tarjas2.0\bin\Debug\IngresoUVA.pdb
+B:\proyecto uva Johnson 2019\tarjas2.0 - pistolear pallet + ubicacion\tarjas2.0\obj\Debug\IngresoUVA.exe
+B:\proyecto uva Johnson 2019\tarjas2.0 - pistolear pallet + ubicacion\tarjas2.0\obj\Debug\IngresoUVA.pdb

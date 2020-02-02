@@ -1,0 +1,74 @@
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0\tarjas2.0\bin\Debug\tarjas2.0.exe.config
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0\tarjas2.0\bin\Debug\tarjas2.0.exe
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0\tarjas2.0\bin\Debug\tarjas2.0.pdb
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0\tarjas2.0\bin\Debug\MetroFramework.Design.dll
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0\tarjas2.0\bin\Debug\MetroFramework.dll
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0\tarjas2.0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0\tarjas2.0\obj\Debug\tarjas2._0.Form1.resources
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0\tarjas2.0\obj\Debug\tarjas2._0.Properties.Resources.resources
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0\tarjas2.0\obj\Debug\tarjas2.0.csproj.GenerateResource.cache
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0\tarjas2.0\obj\Debug\tarjas2.0.csproj.CoreCompileInputs.cache
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0\tarjas2.0\obj\Debug\tarjas2.0.csproj.CopyComplete
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0\tarjas2.0\obj\Debug\tarjas2.0.exe
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0\tarjas2.0\obj\Debug\tarjas2.0.pdb
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0\tarjas2.0\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0\tarjas2.0\bin\Debug\MySql.Data.dll
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0\tarjas2.0\bin\Debug\itextsharp.dll
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0\tarjas2.0\bin\Debug\itextsharp.xml
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\tarjas2.0.exe.config
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\tarjas2.0.exe
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\tarjas2.0.pdb
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\itextsharp.dll
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\MetroFramework.Design.dll
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\MetroFramework.dll
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\MySql.Data.dll
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\itextsharp.xml
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2._0.Form1.resources
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2._0.Properties.Resources.resources
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.csproj.GenerateResource.cache
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.csproj.CoreCompileInputs.cache
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.csproj.CopyComplete
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.exe
+C:\Users\SPSIINF\Desktop\proyectos 2018\etiquetas johnson\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.pdb
+C:\Users\SPSI-INGENIERIA\Desktop\Nueva carpeta\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\tarjas2.0.exe.config
+C:\Users\SPSI-INGENIERIA\Desktop\Nueva carpeta\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\tarjas2.0.exe
+C:\Users\SPSI-INGENIERIA\Desktop\Nueva carpeta\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\tarjas2.0.pdb
+C:\Users\SPSI-INGENIERIA\Desktop\Nueva carpeta\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\itextsharp.dll
+C:\Users\SPSI-INGENIERIA\Desktop\Nueva carpeta\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\itextsharp.xml
+C:\Users\SPSI-INGENIERIA\Desktop\Nueva carpeta\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2._0.Form1.resources
+C:\Users\SPSI-INGENIERIA\Desktop\Nueva carpeta\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2._0.Properties.Resources.resources
+C:\Users\SPSI-INGENIERIA\Desktop\Nueva carpeta\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.csproj.GenerateResource.cache
+C:\Users\SPSI-INGENIERIA\Desktop\Nueva carpeta\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.csproj.CoreCompileInputs.cache
+C:\Users\SPSI-INGENIERIA\Desktop\Nueva carpeta\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.csproj.CopyComplete
+C:\Users\SPSI-INGENIERIA\Desktop\Nueva carpeta\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.exe
+C:\Users\SPSI-INGENIERIA\Desktop\Nueva carpeta\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.pdb
+C:\Users\SPSI-INGENIERIA\Desktop\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2._0.Form1.resources
+C:\Users\SPSI-INGENIERIA\Desktop\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2._0.Properties.Resources.resources
+C:\Users\SPSI-INGENIERIA\Desktop\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.csproj.GenerateResource.cache
+C:\Users\SPSI-INGENIERIA\Desktop\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.csproj.CoreCompileInputs.cache
+C:\Users\SPSI-INGENIERIA\Desktop\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.exe
+C:\Users\SPSI-INGENIERIA\Desktop\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.pdb
+C:\Users\SPSI-INGENIERIA\Desktop\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\tarjas2.0.exe.config
+C:\Users\SPSI-INGENIERIA\Desktop\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\tarjas2.0.exe
+C:\Users\SPSI-INGENIERIA\Desktop\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\tarjas2.0.pdb
+C:\Users\SPSI-INGENIERIA\Desktop\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\itextsharp.dll
+C:\Users\SPSI-INGENIERIA\Desktop\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\MySql.Data.dll
+C:\Users\SPSI-INGENIERIA\Desktop\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\Google.Protobuf.dll
+C:\Users\SPSI-INGENIERIA\Desktop\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\itextsharp.xml
+C:\Users\SPSI-INGENIERIA\Desktop\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\MySql.Data.xml
+C:\Users\SPSI-INGENIERIA\Desktop\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.csproj.CopyComplete
+B:\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\tarjas2.0.exe.config
+B:\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\tarjas2.0.exe
+B:\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\tarjas2.0.pdb
+B:\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\itextsharp.dll
+B:\tarjas2.0 - version tipo etiqueta\tarjas2.0\bin\Debug\itextsharp.xml
+B:\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2._0.Form1.resources
+B:\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2._0.Properties.Resources.resources
+B:\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.csproj.GenerateResource.cache
+B:\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.csproj.CoreCompileInputs.cache
+B:\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.csproj.CopyComplete
+B:\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.exe
+B:\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.pdb
+B:\tarjas2.0 - version tipo etiqueta\tarjas2.0\obj\Debug\tarjas2.0.csprojResolveAssemblyReference.cache
